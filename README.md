@@ -16,8 +16,18 @@ Below the prototypes and the final outcome:
 </div>
 
 ## Lo-fi prototype
+![image](https://github.com/michalwoloszyn/Music3.0/assets/78374996/8ad55da2-a99f-418a-815b-892126919ab0)
+![image](https://github.com/michalwoloszyn/Music3.0/assets/78374996/2dab8bcf-2b28-4ae4-894c-75b0aacf8b3e)
+## Lo-fi prototype - second iteration
+![image](https://github.com/michalwoloszyn/Music3.0/assets/78374996/4ec1da39-93a9-4f66-aa7e-87777d63c9b1)
+![image](https://github.com/michalwoloszyn/Music3.0/assets/78374996/2704866c-d417-48ac-8ce1-455367ba736f)
 
 ## Hi-fi prototype
+![image](https://github.com/michalwoloszyn/Music3.0/assets/78374996/76125163-1d9e-438a-a8f8-aee7f8bfa413)
+![image](https://github.com/michalwoloszyn/Music3.0/assets/78374996/3d2870b5-670c-4ed9-8236-d2e78e280a1a)
+![image](https://github.com/michalwoloszyn/Music3.0/assets/78374996/05a80695-9ff3-460c-8459-ee5e58960e65)
+![image](https://github.com/michalwoloszyn/Music3.0/assets/78374996/cc515d58-f947-434f-bcee-a41c92655e79)
+![image](https://github.com/michalwoloszyn/Music3.0/assets/78374996/5348de49-9c4a-4c65-9ecd-4df7564768d1)
 
 ## Final outcome
 ![2023-05-17 16_07_51-YourAuctions jsx - Web3 0 - Visual Studio Code](https://github.com/michalwoloszyn/Music3.0/assets/78374996/3bf55096-2cb0-4745-81d5-ce009dcbdc7d)
