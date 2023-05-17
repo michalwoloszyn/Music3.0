@@ -18,3 +18,9 @@ Below the prototypes and the final outcome:
 ## Lo-fi prototype
 
 ## Hi-fi prototype
+
+## Final outcome
+![2023-05-17 16_07_51-YourAuctions jsx - Web3 0 - Visual Studio Code](https://github.com/michalwoloszyn/Music3.0/assets/78374996/3bf55096-2cb0-4745-81d5-ce009dcbdc7d)
+![2](https://github.com/michalwoloszyn/Music3.0/assets/78374996/d45f0bf5-e296-406f-82d8-00334f962992)
+![3](https://github.com/michalwoloszyn/Music3.0/assets/78374996/2071a49a-46bf-4d89-9971-b62930f3d71a)
+![2023-05-17 16_09_59-YourAuctions jsx - Web3 0 - Visual Studio Code](https://github.com/michalwoloszyn/Music3.0/assets/78374996/09edd298-24e8-4240-acfd-60c2b5f3af68)
